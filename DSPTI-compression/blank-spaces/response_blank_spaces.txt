@@ -1,0 +1,3 @@
+Olá,{*1}Meu{*1}nome{*1}é{*1}Astra!
+O{*1}que{*1}você{*1}acha{*1}de{*12}Carros{*1}voadores?
+Muito{*1}legal{*3}:D
